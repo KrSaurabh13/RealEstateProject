@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35529" started-at="2019-08-25T18:40:07Z" finished-at="2019-08-25T18:40:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35529" started-at="2019-08-25T18:40:07Z" finished-at="2019-08-25T18:40:42Z">
+      <class name="com.training.realestate.tests.RETC_001_Register_Test">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.realestate.tests.RETC_001_Register_Test@4678c730]" name="setUpBeforeClass" is-config="true" duration-ms="9" started-at="2019-08-26T00:10:07Z" finished-at="2019-08-26T00:10:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.realestate.tests.RETC_001_Register_Test@4678c730]" name="setUp" is-config="true" duration-ms="28068" started-at="2019-08-26T00:10:07Z" finished-at="2019-08-26T00:10:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="RegistrationTest()[pri:0, instance:com.training.realestate.tests.RETC_001_Register_Test@4678c730]" name="RegistrationTest" duration-ms="5697" started-at="2019-08-26T00:10:35Z" finished-at="2019-08-26T00:10:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.realestate.tests.RETC_001_Register_Test@4678c730]" name="tearDown" is-config="true" duration-ms="1735" started-at="2019-08-26T00:10:40Z" finished-at="2019-08-26T00:10:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.realestate.tests.RETC_001_Register_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
